@@ -1,4 +1,4 @@
-# Project 2
+# Introduction
 
 A simple webpage created by Flask and Docker to login and calculate data.
 
