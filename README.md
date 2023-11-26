@@ -3,7 +3,7 @@
 A simple webpage created by Flask and Docker to login and calculate data.
 
 
-## NOTE:  YOU WILL NEED TO RUN THE COMMANDS TO INSTALL:
+## Run the following commands
 
 pip3 install -r requirements.txt (could be pip instead of pip3)
 flask db init
